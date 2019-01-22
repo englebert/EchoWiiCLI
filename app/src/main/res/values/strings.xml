@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EchoWii CLI</string>
+    <string name="button_send">SEND</string>
+    <string name="version">0.1</string>
+</resources>
